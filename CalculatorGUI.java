@@ -17,8 +17,8 @@ public class CalculatorGUI extends javax.swing.JFrame {
     double Result;
     String Op;
     
-    
-    public CalculatorGUI() {
+    {
+    }public CalculatorGUI() {
         initComponents();
     }
 
